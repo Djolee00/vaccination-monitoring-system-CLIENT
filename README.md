@@ -10,6 +10,7 @@ This is a client side for console application with client/server architecture. I
 - Log in
 - Log in as Admin
 - Data validation
+- Covid certificate generation (.txt file)
 - Communication can be interrupted at any time
 - Using threads to read from server and write to server simultaneously
 
